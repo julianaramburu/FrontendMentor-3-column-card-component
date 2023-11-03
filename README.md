@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://https://github.com/julianaramburu/FrontendMentor-3-column-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://julianaramburu.github.io/FrontendMentor-3-column-card-component/)
 
 ## My process
 
