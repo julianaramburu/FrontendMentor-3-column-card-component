@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://github.com/julianaramburu/FrontendMentor-3-column-card-component)
-- Live Site URL: [Add live site URL here](https://julianaramburu.github.io/FrontendMentor-3-column-card-component/)
+- Solution URL: [Github Repo](https://https://github.com/julianaramburu/FrontendMentor-3-column-card-component)
+- Live Site URL: [Github Pages](https://julianaramburu.github.io/FrontendMentor-3-column-card-component/)
 
 ## My process
 
